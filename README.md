@@ -100,10 +100,9 @@ msg.topic = "INSERT INTO clima (`nombre`, `temperatura`,`humedad`) VALUES ('dian
 
 A continuación puede verse una vista previa de los resultado de este flow.
 
-![](https://github.com/Cecilia-X-M/Clima-mysql/blob/main/Diagrama-bd.png)
-![](https://github.com/Cecilia-X-M/Clima-mysql/blob/main/InfBD.png)
-![](https://github.com/Cecilia-X-M/Clima-mysql/blob/main/templates.png)
-![](https://github.com/Cecilia-X-M/Clima-mysql/blob/main/Captura%20de%20pantalla%20(109).png)
+![](https://github.com/LauraGx/Clima-mysql/blob/main/flowmy.png)
+
+![](https://github.com/LauraGx/Clima-mysql/blob/main/flowmys.png)
 
 # Créditos
 
